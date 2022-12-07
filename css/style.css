@@ -1,0 +1,16 @@
+body {
+    height: 97vh;
+    background-image: url(../imagens/fundo-madeira.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+img#iphone {
+    display: flex;
+    margin: auto;
+}
+
+img.botao {
+    border-radius: 50%;
+}
